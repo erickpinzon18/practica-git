@@ -1,0 +1,4 @@
+name: Erick Pinzon Huerta
+group: DS02SV-23
+mail: erickph.ti21@utsjr.edu.mx
+gh: erickpinzon18
